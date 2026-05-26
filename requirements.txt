@@ -1,0 +1,33 @@
+# Asynchronous Web Core Architecture
+fastapi>=0.110.0
+uvicorn>=0.28.0
+python-socketio>=5.11.0
+python-multipart>=0.0.9
+
+# Google Generative AI SDK (v1beta Core Interface)
+google-genai>=0.1.1
+
+# Computer Vision & High-Speed Media Capturing
+opencv-python>=4.9.0.80
+pyaudio>=0.2.14
+pillow>=10.2.0
+mss>=9.0.1
+
+# Browser Automation & DOM Crawling
+playwright>=1.42.0
+
+# Smart Home Integration Matrices
+python-kasa>=0.6.2.1
+
+# 3D Printing Protocols & Automated Network Handshakes
+zeroconf>=0.131.0
+aiohttp>=3.9.0
+
+# System Utilities
+python-dotenv>=1.0.1
+
+# Advanced Computer Vision (Face, Hand, & Skeleton Tracking Tracking Matrices)
+mediapipe>=0.10.11
+
+# Parametric CAD & Generative Engineering Geometry Engine
+build123d>=0.4.0
